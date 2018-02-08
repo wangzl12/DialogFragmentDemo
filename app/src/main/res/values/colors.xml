@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="color_white">#FFFFFF</color>
+    <color name="text_color_9">#999999</color>
+    <color name="text_color_6">#666666</color>
+    <color name="text_color_46">#464646</color>
+    <color name="text_color_80">#808080</color>
+    <color name="text_color_3">#333333</color>
+    <color name="text_color_c">#C1C1C1</color>
+    <color name="text_color_cc">#CCCCCC</color>
+
+    <color name="text_color_red">#f93c3e</color>
+    <color name="text_color_blue">#6699FF</color>
+
+    <!-- 背景 -->
+    <color name="color_bg">#F5F5F5</color>
+    <color name="color_bg_fa">#FAFAFA</color>
+    <color name="color_bg_e7">#e7e7e7</color>
+    <color name="color_bg_80">#80000000</color>
+
+    <!-- 分割线 -->
+    <color name="line_color_item_side_divider">#E5E5E5</color>
+    <color name="line_color_divider">#ededee</color>
+
+    <color name="gray_think">#F0F0F0</color>
+    <color name="gray">#C0C0C0</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="text_color_2c">#2c2c2c</color>
+
+
+    <color name="color_bg_fef9">#fef9f9</color>
+
+    <color name="background_tab_pressed">#6633B5E5</color>
+
+    <color name="blue_think">#00AAEE</color>
+
+</resources>
